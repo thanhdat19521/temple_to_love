@@ -284,6 +284,7 @@
     border-radius: 20px;
     padding: 8px 20px;
     animation: animation 1s ease-out;
+    transform: translateX(-50%);
 }
 
 .animation__item1 {
@@ -306,6 +307,7 @@
     border-radius: 20px;
     padding: 8px 20px;
     animation: animation2 1s ease;
+    transform: translateX(-50%);
 }
 
 @keyframes animation {
